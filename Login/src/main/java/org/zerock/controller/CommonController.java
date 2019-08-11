@@ -41,6 +41,8 @@ public class CommonController {
 		model.addAttribute("logout", "Logout!!");
 
 		}
+
+		// ADD 변경사항을 인덱스에 등록
 		
 	}
 }
